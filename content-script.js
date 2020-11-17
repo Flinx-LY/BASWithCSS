@@ -12,6 +12,3 @@ function injectCustomJs(jsPath) {
     document.documentElement.appendChild(temp);
 }
 injectCustomJs();
-(function () {
-    console.log("这是 simple-chrome-plugin-demo 的content-script！");
-})();
