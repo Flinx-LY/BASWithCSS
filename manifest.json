@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "BASWithCSS",
+    "version": "1.0",
+    "description": "让BAS弹幕支持CSS效果",
+    "author": "Flinx_LY",
+    "icons": {
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.bilibili.com/*"],
+            "js": ["content-script.js"],
+			"css": ["css/custom.css"],
+			"run_at": "document_start"
+        }
+    ],
+    "web_accessible_resources": ["js/inject.js"]
+}

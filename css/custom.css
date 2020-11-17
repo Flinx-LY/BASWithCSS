@@ -1,0 +1,195 @@
+.bas-danmaku.bas-danmaku-pause .bas-danmaku-item-inner {
+    -webkit-animation-play-state: paused;
+    animation-play-state: paused;
+}
+@keyframes bgposition {
+    0% {
+        background-position: 100% 0;
+    }
+    100% {
+        background-position: 0 0;
+    }
+}
+[class$="_css"] .bas-danmaku-item-inner {
+    text-shadow: none !important;
+    background: -webkit-gradient(
+        linear,
+        left top,
+        right top,
+        from(#3366ff),
+        color-stop(0.48, #3366ff),
+        color-stop(0.52, #66ccff),
+        to(#66ccff)
+    );
+    background-size: 200% 100%;
+    background-position: 100% 0%;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation-name: bgposition;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+[class$="assDia0_css"] .bas-danmaku-item-inner {
+    animation-duration: -7195s;
+    animation-delay: 7199.92s;
+}
+[class$="assDia1_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.26s;
+    animation-delay: 11.76s;
+}
+[class$="assDia2_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.26s;
+    animation-delay: 11.76s;
+}
+[class$="assDia3_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.6s;
+    animation-delay: 17.18s;
+}
+[class$="assDia4_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.6s;
+    animation-delay: 17.18s;
+}
+[class$="assDia5_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.21s;
+    animation-delay: 22.03s;
+}
+[class$="assDia6_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.21s;
+    animation-delay: 22.03s;
+}
+[class$="assDia7_css"] .bas-danmaku-item-inner {
+    animation-duration: 3.94s;
+    animation-delay: 27.34s;
+}
+[class$="assDia8_css"] .bas-danmaku-item-inner {
+    animation-duration: 3.94s;
+    animation-delay: 27.34s;
+}
+[class$="assDia9_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.11s;
+    animation-delay: 31.37s;
+}
+[class$="assDia10_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.11s;
+    animation-delay: 31.37s;
+}
+[class$="assDia11_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.94s;
+    animation-delay: 36.8s;
+}
+[class$="assDia12_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.94s;
+    animation-delay: 36.8s;
+}
+[class$="assDia13_css"] .bas-danmaku-item-inner {
+    animation-duration: 7.04s;
+    animation-delay: 41.96s;
+}
+[class$="assDia14_css"] .bas-danmaku-item-inner {
+    animation-duration: 7.04s;
+    animation-delay: 41.96s;
+}
+[class$="assDia15_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.35s;
+    animation-delay: 49.41s;
+}
+[class$="assDia16_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.35s;
+    animation-delay: 49.41s;
+}
+[class$="assDia17_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.69s;
+    animation-delay: 51.93s;
+}
+[class$="assDia18_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.69s;
+    animation-delay: 51.93s;
+}
+[class$="assDia19_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.32s;
+    animation-delay: 54.62s;
+}
+[class$="assDia20_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.32s;
+    animation-delay: 54.62s;
+}
+[class$="assDia21_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.92s;
+    animation-delay: 57.16s;
+}
+[class$="assDia22_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.92s;
+    animation-delay: 57.16s;
+}
+[class$="assDia23_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.86s;
+    animation-delay: 62.34s;
+}
+[class$="assDia24_css"] .bas-danmaku-item-inner {
+    animation-duration: 4.86s;
+    animation-delay: 62.34s;
+}
+[class$="assDia25_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.1s;
+    animation-delay: 67.32s;
+}
+[class$="assDia26_css"] .bas-danmaku-item-inner {
+    animation-duration: 5.1s;
+    animation-delay: 67.32s;
+}
+[class$="assDia27_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.73s;
+    animation-delay: 72.59s;
+}
+[class$="assDia28_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.73s;
+    animation-delay: 72.59s;
+}
+[class$="assDia29_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.14s;
+    animation-delay: 75.43s;
+}
+[class$="assDia30_css"] .bas-danmaku-item-inner {
+    animation-duration: 2.14s;
+    animation-delay: 75.43s;
+}
+[class$="assDia31_css"] .bas-danmaku-item-inner {
+    animation-duration: 3.92s;
+    animation-delay: 77.73s;
+}
+[class$="assDia32_css"] .bas-danmaku-item-inner {
+    animation-duration: 3.92s;
+    animation-delay: 77.73s;
+}
+[class$="assDia33_css"] .bas-danmaku-item-inner {
+    animation-duration: 1.72s;
+    animation-delay: 81.83s;
+}
+[class$="assDia34_css"] .bas-danmaku-item-inner {
+    animation-duration: 1.72s;
+    animation-delay: 81.83s;
+}
+[class$="assDia35_css"] .bas-danmaku-item-inner {
+    animation-duration: 0.36s;
+    animation-delay: 83.56s;
+}
+[class$="assDia36_css"] .bas-danmaku-item-inner {
+    animation-duration: 0.36s;
+    animation-delay: 83.56s;
+}
+[class$="assDia37_css"] .bas-danmaku-item-inner {
+    animation-duration: 0.45s;
+    animation-delay: 83.93s;
+}
+[class$="assDia38_css"] .bas-danmaku-item-inner {
+    animation-duration: 0.45s;
+    animation-delay: 83.93s;
+}
+[class$="assDia39_css"] .bas-danmaku-item-inner {
+    animation-duration: 0.58s;
+    animation-delay: 84.39s;
+}
+[class$="assDia40_css"] .bas-danmaku-item-inner {
+    animation-duration: 0.58s;
+    animation-delay: 84.39s;
+}
