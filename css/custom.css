@@ -2,3 +2,18 @@
     -webkit-animation-play-state: paused;
     animation-play-state: paused;
 }
+
+.note-hide {
+    visibility: visible;
+    opacity: 1;
+    transform: translate(-50%, -50%);
+    animation: note-hide 0.5s forwards;
+}
+@keyframes note-hide {
+    to {
+        visibility: hidden;
+        opacity: 0;
+        transform-origin: center;
+        transform: translate(-50%, -50%) scale(2);
+    }
+}
